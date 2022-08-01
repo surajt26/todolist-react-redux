@@ -1,6 +1,6 @@
 const initialState = {
     // todolist to render item list
-    todolist: ['Dates 1 lb', 'Coconuts 1', 'Bananas 6', 'Apples 1 lb'],
+    todolist: ['Dates', 'Coconuts', 'Bananas', 'Apples'],
     // updateItem for selected item
     updateItem: {
         updateText: "",
