@@ -51,8 +51,8 @@
 
 <!------------------ About The Project ------------------>
 ## About The Project
-- The todolist-react-sessionstorage is react app.
-- It build on React with sessionstorage.
+- The todolist-react-redux is react app.
+- It build on React with redux.
 - Used Bootstrap and Material-UI to markup the project.
 <br />
 
@@ -93,16 +93,16 @@
 <!------------------ Install ------------------>
 ## Install
 
-- Clone the <a href="https://github.com/surajt26/todolist-react-redux.git">todolist-react-sessionstorage</a> app project.
+- Clone the <a href="https://github.com/surajt26/todolist-react-redux.git">todolist-react-redux</a> app project.
 
 ```sh
-git clone https://github.com/surajt26/todolist-react-sessionstorage.git
+git clone https://github.com/surajt26/todolist-react-redux.git
 ```
 - Install all dependency which mention in "package.json" file.
 ```sh
 npm install
 ```
-- Start <a href="https://github.com/surajt26/todolist-react-redux.git">todolist-react-sessionstorage</a> Project.
+- Start <a href="https://github.com/surajt26/todolist-react-redux.git">todolist-react-redux</a> Project.
 ```sh
 npm start
 ```
